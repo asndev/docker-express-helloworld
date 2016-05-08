@@ -1,0 +1,13 @@
+{
+  "name": "docker-node-express",
+  "version": "1.0.0",
+  "description": "Start for Docker with Node/Express",
+  "author": "foobar",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
